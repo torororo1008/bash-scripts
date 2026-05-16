@@ -1,4 +1,4 @@
-# explanation（only Japanese）
+# Explanation（only Japanese）
 
 ### ■sort_by_all_column.sh
 
